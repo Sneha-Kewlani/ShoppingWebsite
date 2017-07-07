@@ -1,0 +1,35 @@
+#upperdiv{
+
+border:1px solid black;
+text-align:center;
+height:50px;
+}
+header{
+	height:30px;
+}
+#leftdiv{
+	width:15%;
+	border:1px solid black;
+	height:70%;
+	
+}
+#middiv
+footer{
+border:1px solid black;
+margin-top:10px;
+height:35px;
+}
+#maindiv{
+	border:1px solid black;
+	height:75%;
+	
+	margin-left:10px;
+	margin-bottom:70px;
+}
+#watchdiv{
+	height:70%;
+	border:1px solid black;
+	width:15%;
+	margin-bottom:
+	
+}
